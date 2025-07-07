@@ -6,3 +6,7 @@
 //
 
 import Foundation
+
+struct NewWindowID: Identifiable {
+    var id: Int
+}
